@@ -60,3 +60,5 @@ For detailed instructions and insights, check out the blog post:
 [NotebookLM with Gemini and Elevenlabs (Detailed Documentation)](https://chirag-ai.medium.com/notebooklm-with-gemini-and-elevenlabs-detailed-documentation-b8db6739ba9b)
 
 ---
+
+Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragjoshi12/readme-generator)
